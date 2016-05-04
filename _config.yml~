@@ -115,6 +115,12 @@ events:
   - image: "/img/timeline/baracktocat.jpg"
     date: "9.10 - 10"
     description: "First Speaker - TBA"
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "10 - 10.45"
+    description: "Second Speaker Speaker - TBA"
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "10.45 - 11"
+    description: "Third Speaker - TBA"
 
 # First image of the Timeline
 
