@@ -55,10 +55,10 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Amsterdam, ECCS 2016"
+  - text: "Living 2 - Satellite on blablabla"
 
-me-img: "/img/Amsterdam-Canal-HERO2.jpg"
+me-img: "/img/jetpacktocat.png"
 
 ##############################
 # Color the browser elements #

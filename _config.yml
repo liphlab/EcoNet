@@ -55,8 +55,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Living 2.0 - Amsterdam, ECCS 2016"
+  - text: "Robustness, Adaptability and Critical Transitions in Living Systems"
 
 me-img: "/img/jetpacktocat.png"
 
