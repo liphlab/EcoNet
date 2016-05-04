@@ -55,8 +55,8 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Amsterdam, ECCS 2016"
-  - text: "Living 2 - Satellite on blablabla"
+  - text: "Living 2.0 - Amsterdam, ECCS 2016"
+  - text: "Robustness, Adaptability and Critical Transitions in Living Systems"
 
 me-img: "/img/jetpacktocat.png"
 
