@@ -167,8 +167,8 @@ social:
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
-  Timeline: 'timeline'
+  News: 'latest-post'
+  Programme: 'timeline'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
