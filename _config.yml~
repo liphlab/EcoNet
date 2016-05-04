@@ -31,8 +31,8 @@ force-https: True
 lang: "en"
 author: "Liph Lab"
 title: "{ LIVING 2.0 - ECCS 2016 Satellite }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+description: "Blog and website of Living 2, satellite of ECCS 2016."
+keywords: "physics | transitions | ecology"
 favicon: "/img/favicon.ico"
 
 ################
@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "../img/Amsterdam-Canal-HERO2"
+background-img: "img/Amsterdam-Canal-HERO2.jpg"
 
 ##############################
 # Dynamic Text on the Header #
