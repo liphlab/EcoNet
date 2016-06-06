@@ -31,7 +31,7 @@ force-https: True
 lang: "en"
 author: "Liph Lab"
 title: "{ LIVING 2.0 - ECCS 2016 Satellite }"
-description: "Blog and website of Living 2, satellite of ECCS 2016."
+description: "Website of Living 2, satellite of ECCS 2016."
 keywords: "physics | transitions | ecology"
 favicon: "/img/favicon.ico"
 
@@ -110,17 +110,31 @@ syntax-highlight: True
 
 events:
   - image: "/img/timeline/spidertocat.png"
-    date: "9.00 - 9.15"
+    date: "14.45 - 14.50"
     description: "Introduction"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "9.10 - 10"
-    description: "First Speaker - TBA"
+    date: "14.50 - 15.20"
+    description: "Invited speaker: Elisa Benincà"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "10 - 10.45"
-    description: "Second Speaker Speaker - TBA"
+    date: "15.20 - 16.05"
+    description: "Three contributed talks - TBA"
   - image: "/img/timeline/baracktocat.jpg"
-    date: "10.45 - 11"
-    description: "Third Speaker - TBA"
+    date: "16.05 - 16.20"
+    description: "Three 5-min ignites: TBA"
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "16.20 - 16.30"
+    description: "Coffee break"
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "16.30 - 17.00"
+    description: "Invited speaker: Amos Maritan"
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "17.00 - 17.45"
+    description: "Three contributed talks - TBA"
+  - image: "/img/timeline/baracktocat.jpg"
+    date: "17.45 - 18.00"
+    description: "Three 5-min ignites: TBA"
+
+
 
 # First image of the Timeline
 
@@ -130,7 +144,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "iph.unipd@gmail.com"
 
 ################
 # Author Blurb #
@@ -148,16 +162,8 @@ author_blurb_image: "/img/author.png"
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/"
   - title: "twitter"
-    url: "https://twitter.com/"
-  - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
-  - title: "rss"
-    url: "/feed.xml"
+    url: "https://twitter.com/LIPh_Lab"
 
 ############
 # 404 page #
