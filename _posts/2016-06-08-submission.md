@@ -13,9 +13,9 @@ You can indicate on the abstract whether you want to contribute with a 15-min ta
 **Deadline: 8 July 2016**
 
 Abstracts for talks will be selected by the Scientific Committee according to the following criteria:
-- Interest of the proposal respect to the topic of the satellite.
-- Novelty of the research.
- Priority will be given to junior researchers (Ph.D. students and post-docs).
+- Interest of the proposal respect to the topic of the satellite
+- Novelty of the research
+Priority will be given to junior researchers (Ph.D. students and post-docs).
 
 
 <!--Click the view more posts link bellow, to see the currently available post-tutorials to help you get your { Personal } website up and running quicker!-->
