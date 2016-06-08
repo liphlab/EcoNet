@@ -109,28 +109,28 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/timeline/frog.jpg"
     date: "14.45 - 14.50"
     description: "Introduction"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/elisa.png"
     date: "14.50 - 15.20"
     description: "Invited speaker: Elisa Benincà"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/frog.jpg"
     date: "15.20 - 16.05"
     description: "Three contributed talks - TBA"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/frog.jpg"
     date: "16.05 - 16.20"
     description: "Three 5-min ignites: TBA"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/coffee.jpg"
     date: "16.20 - 16.30"
     description: "Coffee break"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/amos.png"
     date: "16.30 - 17.00"
     description: "Invited speaker: Amos Maritan"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/frog.jpg"
     date: "17.00 - 17.45"
     description: "Three contributed talks - TBA"
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/timeline/frog.jpg"
     date: "17.45 - 18.00"
     description: "Three 5-min ignites: TBA"
 
@@ -138,13 +138,13 @@ events:
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/default.png"
+timeline-img: "/img/timeline/frog.jpg"
 
 ###########
 # Contact #
 ###########
 
-email: "iph.unipd@gmail.com"
+email: "liph.unipd@gmail.com"
 
 ################
 # Author Blurb #
@@ -169,7 +169,7 @@ social:
 # 404 page #
 ############
 
-404-img: "/img/labtocat.png"
+404-img: "/img/frog.jpg"
 
 ################################################################################
 
