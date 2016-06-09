@@ -7,7 +7,7 @@ tags: [ 'abstract' ]
 ---
 
 If you are interested to send a contribution, please submit your abstract via 
-<a href="https://easychair.org/conferences/?conf=living2016" target="\_blank">EasyChair</a>.
+<a href="https://easychair.org/conferences/?conf=living2016" target="\_blank">EasyChair</a> ( https://easychair.org/conferences/?conf=living2016 ).
 You can indicate on the abstract whether you want to contribute with a 15-min talk or whether you prefer giving a 5-min ignite. 
 
 **Deadline: 8 July 2016**
