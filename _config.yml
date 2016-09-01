@@ -138,7 +138,7 @@ events:
     description: "Charles de Santana. <em>Robustness of tissue structure to perturbations in mechanical forces.</em>"
 # First image of the Timeline
 
-#timeline-img: "/img/timeline/frog.jpg"
+timeline-img: "/img/timeline/frog.jpg"
 
 ###########
 # Contact #
