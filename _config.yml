@@ -120,7 +120,7 @@ events:
     description: "Els Weinan (University of Amsterdam). <em>Predicting collapsing network entities before the tipping point.</em>"
   - image: "/img/timeline/frog.jpg"
     date: "15.40 - 15.55"
-    description: "Kazuhiro Takemoto (Kyushu Institute of Technology, Japan). <em>Predicting collapsing network entities before the tipping point.</em>"
+    description: "Kazuhiro Takemoto (Kyushu Institute of Technology, Japan). <em>Environmental change influences ecological network structure on a global scale.</em>"
   - image: "/img/timeline/frog.jpg"
     date: "15.55 - 16.10"
     description: "Fabio Peruzzo (University of Leeds). <em>A method for calculating an approximate analytical solution of a stochastic ecological model in space.</em>"
@@ -140,6 +140,7 @@ events:
 # First image of the Timeline
 
 timeline-img: "/img/timeline/frog.jpg"
+description: "Closure"
 
 ###########
 # Contact #
