@@ -114,7 +114,8 @@ events:
     description: "Introduction"
   - image: "/img/timeline/elisa.png"
     date: "14.50 - 15.20"
-    description: "Invited speaker: Elisa Benincà"
+    description: "Invited speaker: Elisa Benincà. <em>Species fluctuations sustained by a cyclic succession at
+the edge of chaos.</em>"
   - image: "/img/timeline/frog.jpg"
     date: "15.20 - 16.05"
     description: "Three contributed talks - TBA"
