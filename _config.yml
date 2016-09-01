@@ -130,7 +130,7 @@ events:
   - image: "/img/timeline/tans.png"
     date: "16.35 - 17.10"
     description: "Invited speaker: Sander Tans. <em>TBA</em>"
-  - image: "/img/timeline/frog.jpg"
+  - image: "/img/timeline/stefano.png"
     date: "17.10 - 17.45"
     description: "Invited Speaker: Stefano Vassanelli. <em>Investigating the collective behaviour of neurons in the brain: what can we do and what we cannot do.</em>"
   - image: "/img/timeline/frog.jpg"
