@@ -118,7 +118,7 @@ events:
   - image: "/img/timeline/frog.jpg"
     date: "15.20 - 15.35"
     description: "Els Weinan. <em>Predicting collapsing network entities before the tipping point.</em>"
-  - image:"/img/timeline/frog.jpg"
+  - image: "/img/timeline/frog.jpg"
     date: "15.35 - 15.50"
     description: "Kazuhiro Takemoto. <em>Predicting collapsing network entities before the tipping point.</em>"
   - image: "/img/timeline/frog.jpg"
@@ -136,7 +136,7 @@ events:
   - image: "/img/timeline/frog.jpg"
     date: "17.35 - 17.50"
     description: "Charles de Santana. <em>Robustness of tissue structure to perturbations in mechanical forces</em>"
-  - image. "img/timeline/frog.jpg"
+  - image: "/img/timeline/frog.jpg"
     date: "17.50 - 17.55"
     description: "Closure"
 
