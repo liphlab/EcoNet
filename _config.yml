@@ -135,13 +135,10 @@ events:
     description: "Invited Speaker: Stefano Vassanelli. <em>Investigating the collective behaviour of neurons in the brain: what can we do and what we cannot do.</em>"
   - image: "/img/timeline/frog.jpg"
     date: "17.45 - 18.00"
-    description: "Charles de Santana. <em>Robustness of tissue structure to perturbations in mechanical forces</em>"
-
-
-
+    description: "Charles de Santana. <em>Robustness of tissue structure to perturbations in mechanical forces.</em>"
 # First image of the Timeline
 
-timeline-img: "/img/timeline/frog.jpg"
+#timeline-img: "/img/timeline/frog.jpg"
 
 ###########
 # Contact #
