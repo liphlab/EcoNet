@@ -129,7 +129,7 @@ events:
     description: "Coffee break"
   - image: "/img/timeline/tans.png"
     date: "16.15 - 17.00"
-    description: "Invited speaker: Sander Tans (AMOLF, The Netherlands). <em>TBA</em>"
+    description: "Invited speaker: Sander Tans (AMOLF, The Netherlands). <em>Tradeoffs and optimality in the evolution of gene regulation.</em>"
   - image: "/img/timeline/stefano.png"
     date: "17.00 - 17.45"
     description: "Invited Speaker: Stefano Vassanelli (University of Padua). <em>Investigating the collective behaviour of neurons in the brain: what can we do and what we cannot do.</em>"
