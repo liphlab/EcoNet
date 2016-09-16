@@ -57,6 +57,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Living 2.0 - Tuesday 20 Sep 2016 - Amsterdam, ECCS 2016"
   - text: "Robustness, Adaptability and Critical Transitions in Living Systems"
+  - text: "Workshop starts at 14.10, Room M (Effectenbeurszaal)"
 
 me-img: "/img/frog.jpg"
 
