@@ -29,8 +29,8 @@ force-https: True
 #############
 
 lang: "en"
-author: "Liph Lab"
-title: "{ LIVING 2.0 - ECCS 2016 Satellite - 20 Sep 2016 - Room M}"
+author: "Jacopo Grilli"
+title: "{ EcoNet - NetSci 2018 Satellite - June 2018}"
 description: "Website of Living 2, satellite of ECCS 2016."
 keywords: "physics | transitions | ecology"
 favicon: "/img/favicon.ico"
@@ -41,7 +41,7 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-background-img: "/img/Amsterdam-Canal-HERO2.jpg"
+background-img: "/img/seine-cruise-paris-france.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -55,9 +55,9 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Living 2.0 - Tuesday 20 Sep 2016 - Amsterdam, ECCS 2016"
-  - text: "Robustness, Adaptability and Critical Transitions in Living Systems"
-  - text: "Workshop starts at 14.10, Room M (Effectenbeurszaal)"
+  - text: "EcoNet - June 2018 - Paris, NetSci 2018"
+  - text: "Ecological networks: spandrels, selection, and assembly."
+#  - text: "Workshop starts at 14.10, Room M (Effectenbeurszaal)"
 
 me-img: "/img/frog.jpg"
 
@@ -109,34 +109,47 @@ syntax-highlight: True
 # Timeline #
 ############
 
-events:
-  - image: "/img/timeline/frog.jpg"
-    date: "14.10 - 14.15"
-    description: "Introduction"
-  - image: "/img/timeline/elisa.png"
-    date: "14.15 - 15.00"
-    description: "Invited speaker: Elisa Benincà (RIVM, The Netherlands). <em>Species fluctuations sustained by a cyclic succession at the edge of chaos.</em>"
-  - image: "/img/timeline/frog.jpg"
-    date: "15.00 - 15.15"
-    description: "Els Weinan (University of Amsterdam). <em>Predicting collapsing network entities before the tipping point.</em>"
-  - image: "/img/timeline/frog.jpg"
-    date: "15.15 - 15.30"
-    description: "Kazuhiro Takemoto (Kyushu Institute of Technology, Japan). <em>Environmental change influences ecological network structure on a global scale.</em>"
-  - image: "/img/timeline/frog.jpg"
-    date: "15.30 - 15.45"
-    description: "Fabio Peruzzo (University of Leeds). <em>A method for calculating an approximate analytical solution of a stochastic ecological model in space.</em>"
-  - image: "/img/timeline/coffee.jpg"
-    date: "15.45 - 16.15"
-    description: "Coffee break"
-  - image: "/img/timeline/tans.png"
-    date: "16.15 - 17.00"
-    description: "Invited speaker: Sander Tans (AMOLF, The Netherlands). <em>Tradeoffs and optimality in the evolution of gene regulation.</em>"
-  - image: "/img/timeline/stefano.png"
-    date: "17.00 - 17.45"
-    description: "Invited Speaker: Stefano Vassanelli (University of Padua). <em>Investigating the collective behaviour of neurons in the brain: what can we do and what we cannot do.</em>"
-  - image: "/img/timeline/frog.jpg"
-    date: "17.45 - 18.00"
-    description: "Charles de Santana (University of Zurich). <em>Robustness of tissue structure to perturbations in mechanical forces.</em>"
+#events:
+#  - image: "/img/timeline/frog.jpg"
+#    date: "14.15 - 15.00"
+#    description: "Invited speaker: Elisa Thebault (CNRS, Paris, France). 
+#  - image: "/img/timeline/frog.jpg"
+#    date: "14.15 - 15.00"
+#    description: "Invited speaker: Stefano Allesina (University of Chicago, Chicago, USA). 
+#  - image: "/img/timeline/frog.jpg"
+#    date: "14.15 - 15.00"
+#    description: "Invited speaker: Ricard Solè (Universitat Pompeu Fabra, Barcelona). 
+
+
+
+#events:
+#  - image: "/img/timeline/frog.jpg"
+#    date: "14.10 - 14.15"
+#    description: "Introduction"
+#  - image: "/img/timeline/elisa.png"
+#    date: "14.15 - 15.00"
+#    description: "Invited speaker: Elisa Benincà (RIVM, The Netherlands). <em>Species fluctuations sustained by a cyclic succession at the edge of chaos.</em>"
+#  - image: "/img/timeline/frog.jpg"
+#    date: "15.00 - 15.15"
+#    description: "Els Weinan (University of Amsterdam). <em>Predicting collapsing network entities before the tipping point.</em>"
+#  - image: "/img/timeline/frog.jpg"
+#    date: "15.15 - 15.30"
+#    description: "Kazuhiro Takemoto (Kyushu Institute of Technology, Japan). <em>Environmental change influences ecological network structure on a global scale.</em>"
+#  - image: "/img/timeline/frog.jpg"
+#    date: "15.30 - 15.45"
+#    description: "Fabio Peruzzo (University of Leeds). <em>A method for calculating an approximate analytical solution of a stochastic ecological model in space.</em>"
+#  - image: "/img/timeline/coffee.jpg"
+#    date: "15.45 - 16.15"
+#    description: "Coffee break"
+#  - image: "/img/timeline/tans.png"
+#    date: "16.15 - 17.00"
+#    description: "Invited speaker: Sander Tans (AMOLF, The Netherlands). <em>Tradeoffs and optimality in the evolution of gene regulation.</em>"
+#  - image: "/img/timeline/stefano.png"
+#    date: "17.00 - 17.45"
+#    description: "Invited Speaker: Stefano Vassanelli (University of Padua). <em>Investigating the collective behaviour of neurons in the brain: what can we do and what we cannot do.</em>"
+#  - image: "/img/timeline/frog.jpg"
+#    date: "17.45 - 18.00"
+#    description: "Charles de Santana (University of Zurich). <em>Robustness of tissue structure to perturbations in mechanical forces.</em>"
 
 # First image of the Timeline
 
