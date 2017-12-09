@@ -109,16 +109,16 @@ syntax-highlight: True
 # Timeline #
 ############
 
-#events:
-#  - image: "/img/timeline/frog.jpg"
-#    date: "14.15 - 15.00"
-#    description: "Invited speaker: Elisa Thebault (CNRS, Paris, France). 
-#  - image: "/img/timeline/frog.jpg"
-#    date: "14.15 - 15.00"
-#    description: "Invited speaker: Stefano Allesina (University of Chicago, Chicago, USA). 
-#  - image: "/img/timeline/frog.jpg"
-#    date: "14.15 - 15.00"
-#    description: "Invited speaker: Ricard Solè (Universitat Pompeu Fabra, Barcelona). 
+events:
+  - image: "/img/timeline/frog.jpg"
+    date: "14.15 - 15.00"
+    description: "Invited speaker: Elisa Thebault (CNRS, Paris, France)."
+  - image: "/img/timeline/frog.jpg"
+    date: "14.15 - 15.00"
+    description: "Invited speaker: Stefano Allesina (University of Chicago, Chicago, USA)."
+  - image: "/img/timeline/frog.jpg"
+    date: "14.15 - 15.00"
+    description: "Invited speaker: Ricard Solè (Universitat Pompeu Fabra, Barcelona). [TBC]"
 
 
 

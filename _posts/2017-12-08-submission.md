@@ -6,17 +6,18 @@ category: abstract
 tags: [ 'abstract' ]
 ---
 
-<!---
+
 
 If you are interested to send a contribution, please submit your abstract via 
-<a href="https://easychair.org/conferences/?conf=living2016" target="\_blank">EasyChair</a> ( https://easychair.org/conferences/?conf=living2016 ).
+<a href="https://easychair.org/conferences/?conf=econet2018" target="\_blank">EasyChair</a> ( https://easychair.org/conferences/?conf=econet2018 ).
 You can indicate on the abstract whether you want to contribute with a 15-min talk or whether you prefer giving a 5-min ignite. 
 
-**New Deadline: 21 July 2016**
+**Deadline: 10 February 2018**
 
-Abstracts for talks will be selected by the Scientific Committee according to the following criteria:
+<!---Abstracts for talks will be selected by the Scientific Committee according to the following criteria:
 - Interest of the proposal respect to the topic of the satellite
-- Novelty of the research
+- Novelty of the research--->
+
 Priority will be given to junior researchers (Ph.D. students and post-docs).
 
 
