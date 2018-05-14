@@ -149,7 +149,7 @@ events:
 
 # First image of the Timeline
 
-#timeline-img: "/img/timeline/frog.jpg"
+timeline-img: "/img/timeline/frog.jpg"
 
 
 ###########
