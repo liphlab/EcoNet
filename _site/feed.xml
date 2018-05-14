@@ -3,8 +3,8 @@
 	<channel>
 		<title>{ EcoNet - NetSci 2018 Satellite - June 2018}</title>
 		<description>Website of Living 2, satellite of ECCS 2016.</description>
-		<link>https://liphlab.github.io</link>
-		<atom:link href="https://liphlab.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		<link>http://localhost:4000</link>
+		<atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>Abstract submission</title>
@@ -17,8 +17,8 @@ You can indicate on the abstract whether you want to contribute with a 15-min ta
 </description>
 				
 				<pubDate>Fri, 08 Dec 2017 00:00:00 -0700</pubDate>
-				<link>https://liphlab.github.io/abstract/2017/12/08/submission.html</link>
-				<guid isPermaLink="true">https://liphlab.github.io/abstract/2017/12/08/submission.html</guid>
+				<link>http://localhost:4000/abstract/2017/12/08/submission.html</link>
+				<guid isPermaLink="true">http://localhost:4000/abstract/2017/12/08/submission.html</guid>
 			</item>
 		
 	</channel>
