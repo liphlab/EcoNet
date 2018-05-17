@@ -110,12 +110,15 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/thebault.jpg"
-    date: "14.15 - 15.00"
-    description: "Invited speaker: Elisa Thebault (CNRS, Paris, France)."
   - image: "/img/timeline/medium_Stefano.jpg"
     date: "14.15 - 15.00"
     description: "Invited speaker: Stefano Allesina (University of Chicago, Chicago, USA)."
+  - image: "/img/timeline/thebault.jpg"
+    date: "14.15 - 15.00"
+    description: "Invited speaker: Elisa Thebault (CNRS, Paris, France)."
+  - image: "/img/timeline/neo.jpg"
+    date: "14.15 - 15.00"
+    description: "Invited speaker: Neo Martinez (University of Arizona and Peace Lab, USA)."
 
 
 #events:
